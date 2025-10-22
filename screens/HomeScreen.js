@@ -15,6 +15,7 @@ import Header from '../components/Header';
 import Card from '../components/Card';
 import Button from '../components/Button';
 
+
 const { width } = Dimensions.get('window');
 
 export default function HomeScreen() {
