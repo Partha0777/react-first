@@ -42,6 +42,7 @@ export default function HomeScreen() {
     );
   };
 
+  
   const theme = {
     colors: {
       background: isDarkMode ? '#1a1a1a' : '#ffffff',
