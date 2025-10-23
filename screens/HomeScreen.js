@@ -34,6 +34,7 @@ export default function HomeScreen() {
     setIsDarkMode(prev => !prev);
   };
 
+  
   const showAlert = () => {
     Alert.alert(
       'Platform Info',
