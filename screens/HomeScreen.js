@@ -117,6 +117,7 @@ export default function HomeScreen() {
       textAlign: 'center',
     },
   });
+  
 
   return (
     <SafeAreaView style={styles.container}>
