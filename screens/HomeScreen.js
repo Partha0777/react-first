@@ -116,7 +116,6 @@ export default function HomeScreen() {
       color: theme.colors.textSecondary,
       textAlign: 'center',
     },
-    
   });
 
   return (
