@@ -141,7 +141,6 @@ export default function HomeScreen() {
           </View>
         </Card>
 
-        {/* Platform Info */}
         <Card isDarkMode={isDarkMode}>
           <Text style={styles.featureTitle}>Platform Detection</Text>
           <View style={styles.platformInfo}>
