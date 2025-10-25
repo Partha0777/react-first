@@ -204,7 +204,6 @@ export default function HomeScreen() {
         </Card>
       </ScrollView>
 
-      {/* Footer */}
       <View style={styles.footer}>
         <Text style={styles.footerText}>
           Built with React Native & Expo • Works on iOS, Android & Web
