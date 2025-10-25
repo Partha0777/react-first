@@ -129,7 +129,6 @@ export default function HomeScreen() {
       />
 
       <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
-        {/* Counter Section */}
         <Card isDarkMode={isDarkMode}>
           <Text style={[styles.featureTitle, { marginBottom: 15 }]}>Interactive Counter</Text>
           <View style={{ alignItems: 'center' }}>
