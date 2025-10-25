@@ -193,7 +193,6 @@ export default function HomeScreen() {
           </View>
         </Card>
 
-        {/* Theme Toggle */}
         <Card isDarkMode={isDarkMode}>
           <Text style={styles.featureTitle}>Theme Control</Text>
           <Button 
