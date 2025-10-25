@@ -206,6 +206,7 @@ export default function HomeScreen() {
           Built with React Native & Expo • Works on iOS, Android & Web
         </Text>
       </View>
+      
     </SafeAreaView>
   );
 }
