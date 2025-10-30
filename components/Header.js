@@ -3,6 +3,7 @@ import { View, Text, StyleSheet, Platform } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 
 export default function Header({ title, subtitle, isDarkMode }) {
+  
   const theme = {
     colors: {
       primary: '#007AFF',
