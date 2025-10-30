@@ -160,7 +160,6 @@ export default function HomeScreen() {
           />
         </Card>
 
-        {/* Features */}
         <Card isDarkMode={isDarkMode}>
           <Text style={styles.featureTitle}>Cross-Platform Features</Text>
           <View style={styles.featuresGrid}>
