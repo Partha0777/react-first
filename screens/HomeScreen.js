@@ -19,7 +19,7 @@ import Button from '../components/Button';
 const { width } = Dimensions.get('window');
 
 export default function HomeScreen() {
-  
+
   const [counter, setCounter] = useState(0);
   const [isDarkMode, setIsDarkMode] = useState(false);
 
@@ -31,6 +31,7 @@ export default function HomeScreen() {
     setCounter(0);
   };
 
+  
   const toggleTheme = () => {
     setIsDarkMode(prev => !prev);
   };
