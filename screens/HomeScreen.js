@@ -19,6 +19,7 @@ import Button from '../components/Button';
 const { width } = Dimensions.get('window');
 
 export default function HomeScreen() {
+  
   const [counter, setCounter] = useState(0);
   const [isDarkMode, setIsDarkMode] = useState(false);
 
